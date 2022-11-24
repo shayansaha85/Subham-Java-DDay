@@ -22,7 +22,7 @@ public class ArrayListDemo {
 }
 
 /*
-dhukaooo(arr, index, element)
+dhukaooo(arr, index, element) --> return output int[]
 
 arr = {5,3,2,1};
 dhukaoo(arr, 2, 10)
